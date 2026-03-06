@@ -62,6 +62,7 @@ img {
     flex-grow: 0;
     flex-shrink: 0;
     flex-direction: column;
+    background-color: white;
     box-shadow: 0px 15px 30px -10px rgba(131, 166, 210, 0.3);
     border-radius: 10px;
     max-width: 60vw;
@@ -121,3 +122,4 @@ img {
     }
 
 }
+
