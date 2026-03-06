@@ -9,7 +9,7 @@
 body {
     font-family: "Poppins";
     font-weight: normal;
-    /* background-color: hsl(212, 6%, 44%); */
+    background-color: whitesmoke;
     color: hsl(234, 12%, 34%);
     font-size: 16px;
     margin: 0;
@@ -119,4 +119,5 @@ img {
     .one, .four {
         grid-row: span;
     }
+
 }
